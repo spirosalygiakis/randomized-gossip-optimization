@@ -26,3 +26,4 @@ The asynchronous simulation compares the unoptimized approach (uniform random wa
 ## Repository Structure
 * `/notebooks/`: Contains the Jupyter Notebook (`Gossip_Algorithm_SDP.ipynb`) with the mathematical modeling, solver configuration, and asynchronous simulation loop.
 * `/assets/`: Convergence charts and visualizations generated from the model.
+* /docs/: Contains the full simulation report, theoretical analysis, and experimental results (Documentation in Greek).
